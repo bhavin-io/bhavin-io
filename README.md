@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavin Himatkumar Goswami</h1>
-<h3 align="center">Aspiring Software Engineer | Actively Full-Time Opportunities | Python | SQL | MS in Computer Science Student at Pace University</h3>
+<h3 align="center">Aspiring Software Engineer | Actively Seeking Full-Time Opportunities | Python | SQL | MS in Computer Science Student at Pace University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavin-io&label=Profile%20views&color=0e75b6&style=flat" alt="bhavin-io" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavin-io" alt="bhavin-io" /></a> </p>
-
-- 🔭 I’m currently working on [EzCars - Capstone project](N/A)
+- 🔭 I’m currently working on **EzCars - Capstone project**
 
 - 🌱 I’m currently learning **Ai powered apps, React Framework, Complex Algorithms**
 
@@ -13,7 +9,7 @@
 
 - 🤝 I’m looking for help with **LLMs, Ai, Cloud Technologies**
 
-- 👨‍💻 All of my projects are available at [www.bhavingoswami.com](www.bhavingoswami.com)
+- 👨‍💻 All of my projects are available at [https://github.com/bhavin-io](https://github.com/bhavin-io)
 
 - 💬 Ask me about **System design, Application Development, Data**
 
@@ -34,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavin-io&show_icons=true&locale=en&layout=compact" alt="bhavin-io" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavin-io&show_icons=true&locale=en" alt="bhavin-io" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavin-io&" alt="bhavin-io" /></p>
