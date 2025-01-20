@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bhavin Himatkumar Goswami</h1>
 <h3 align="center">Aspiring Software Engineer | Actively Seeking Full-Time Opportunities | Python | SQL | MS in Computer Science Student at Pace University</h3>
-A helmsman guiding software projects from concept to completion. With a Master’s in Computer Science from Pace University and three years of experience, I have a strong background in programming languages like Python, Java, and SQL. My education has deepened my expertise in software development, and I’m eager to apply these skills in real-world settings.
-
-Over the past three years, I’ve steered a variety of projects, designing and building scalable applications, streamlining workflows, and enhancing system efficiency. I have hands-on experience with tools such as AWS, Jenkins, and Docker, and excel at solving real-world challenges while collaborating with diverse teams. Whether leading the development of an e-commerce platform or implementing CI/CD pipelines to accelerate software delivery, I strive to deliver meaningful results.
-
-I am committed to continuous learning and staying updated with the latest technological advancements. I am seeking opportunities to leverage my technical expertise, work with innovative teams, and make a significant impact through my work. I believe in the power of technology to solve problems and create a better future, and I’m excited to contribute to that journey.
+A helmsman guiding software projects from concept to completion. With a Master’s in Computer Science from Pace University and three years of experience, I have a strong background in programming languages like Python, Java, and SQL. My education has deepened my expertise in software development, and I’m eager to apply these skills in real-world settings.<br/><br/>
+Over the past three years, I’ve steered a variety of projects, designing and building scalable applications, streamlining workflows, and enhancing system efficiency. I have hands-on experience with tools such as AWS, Jenkins, and Docker, and excel at solving real-world challenges while collaborating with diverse teams. Whether leading the development of an e-commerce platform or implementing CI/CD pipelines to accelerate software delivery, I strive to deliver meaningful results.<br/><br/>
+I am committed to continuous learning and staying updated with the latest technological advancements. I am seeking opportunities to leverage my technical expertise, work with innovative teams, and make a significant impact through my work. I believe in the power of technology to solve problems and create a better future, and I’m excited to contribute to that journey.<br/><br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
